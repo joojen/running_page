@@ -1,8 +1,8 @@
 {
-  "name": "yihong.run",
-  "description": "Yi hong",
+  "name": "joojen.run",
+  "description": "joojenZhou",
   "version": "1.0.0",
-  "author": "Yi Hong <zouzou0208@gmail.com>",
+  "author": "joojen <joojen@gmail.com>",
   "packageManager": "pnpm@8.9.0+sha256.8f5264ad1d100da11a6add6bb8a94c6f1e913f9e9261b2a551fabefad2ec0fec",
   "dependencies": {
     "@mapbox/mapbox-gl-language": "^1.0.1",
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yihong0618/running_page"
+    "url": "https://github.com/joojen/running_page"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.8",
