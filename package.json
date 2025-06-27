@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.8",
-    "@types/geojson": "^7946.0.14",
+    "@types/geojson": "^7946.0.16",
     "@types/mapbox__polyline": "^1.0.2",
     "@types/node": "^20.5.7",
     "@types/prop-types": "^15.7.11",
