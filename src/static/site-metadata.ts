@@ -15,9 +15,9 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteTitle: 'joojen Running Page',
+  siteUrl: 'https://joojen.com',
+  logo: 'https://avatars.githubusercontent.com/u/4427397?s=400&u=1614c0c4c4cd75765a49e0ab27d0b7d47120b43b&v=4',
   description: 'Personal site and blog',
   navLinks: [
     {
@@ -25,12 +25,12 @@ const data: ISiteMetadataResult = {
       url: `${getBasePath()}/summary`,
     },
     {
-      name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      name: '个人网站',
+      url: 'https://joojen.com/',
     },
     {
       name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      url: 'https://github.com/joojen/running_page/blob/master/README-CN.md',
     },
   ],
 };
